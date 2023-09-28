@@ -1,6 +1,6 @@
 
 # sample-color-app
-# Little chnages
+# Little changes
 
 ## Edit Annotations in the router
 
